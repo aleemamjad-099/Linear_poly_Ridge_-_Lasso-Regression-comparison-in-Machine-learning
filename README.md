@@ -1,0 +1,2 @@
+# Linear_poly_Ridge_-_Lasso-Regression-comparison-in-Machine-learning
+This is linear Poly Ridge and Lasso regression Algorithm in which we see how score change in different algorithm to also see which regression model gives the better score ...but my data set is linear and almost all score is same there is no big difference in the score ... so i added noise in the data to see the the score now see the difference
